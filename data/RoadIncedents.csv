@@ -1,0 +1,505 @@
+Year,Group,Type,Number
+1990,Unknown,Minor Injury,388
+1991,Unknown,Minor Injury,44
+1992,Unknown,Minor Injury,67
+1993,Unknown,Minor Injury,93
+1994,Unknown,Minor Injury,82
+1995,Unknown,Minor Injury,142
+1996,Unknown,Minor Injury,255
+1997,Unknown,Minor Injury,270
+1998,Unknown,Minor Injury,283
+1999,Unknown,Minor Injury,232
+2000,Unknown,Minor Injury,135
+2001,Unknown,Minor Injury,164
+2002,Unknown,Minor Injury,116
+2003,Unknown,Minor Injury,165
+2004,Unknown,Minor Injury,74
+2005,Unknown,Minor Injury,107
+2006,Unknown,Minor Injury,144
+2007,Unknown,Minor Injury,56
+2008,Unknown,Minor Injury,168
+2009,Unknown,Minor Injury,373
+2010,Unknown,Minor Injury,166
+2011,Unknown,Minor Injury,182
+2012,Unknown,Minor Injury,374
+2013,Unknown,Minor Injury,279
+1990,Unknown,Severe Injury,66
+1991,Unknown,Severe Injury,0
+1992,Unknown,Severe Injury,0
+1993,Unknown,Severe Injury,0
+1994,Unknown,Severe Injury,0
+1995,Unknown,Severe Injury,0
+1996,Unknown,Severe Injury,0
+1997,Unknown,Severe Injury,0
+1998,Unknown,Severe Injury,1
+1999,Unknown,Severe Injury,0
+2000,Unknown,Severe Injury,1
+2001,Unknown,Severe Injury,1
+2002,Unknown,Severe Injury,11
+2003,Unknown,Severe Injury,20
+2004,Unknown,Severe Injury,4
+2005,Unknown,Severe Injury,11
+2006,Unknown,Severe Injury,8
+2007,Unknown,Severe Injury,6
+2008,Unknown,Severe Injury,27
+2009,Unknown,Severe Injury,32
+2010,Unknown,Severe Injury,7
+2011,Unknown,Severe Injury,20
+2012,Unknown,Severe Injury,49
+2013,Unknown,Severe Injury,31
+1990,Unknown,Killed,5
+1991,Unknown,Killed,0
+1992,Unknown,Killed,0
+1993,Unknown,Killed,0
+1994,Unknown,Killed,0
+1995,Unknown,Killed,0
+1996,Unknown,Killed,0
+1997,Unknown,Killed,0
+1998,Unknown,Killed,0
+1999,Unknown,Killed,0
+2000,Unknown,Killed,0
+2001,Unknown,Killed,0
+2002,Unknown,Killed,0
+2003,Unknown,Killed,0
+2004,Unknown,Killed,2
+2005,Unknown,Killed,2
+2006,Unknown,Killed,2
+2007,Unknown,Killed,2
+2008,Unknown,Killed,27
+2009,Unknown,Killed,4
+2010,Unknown,Killed,12
+2011,Unknown,Killed,13
+2012,Unknown,Killed,8
+2013,Unknown,Killed,6
+1990,65+,Minor Injury,1423
+1991,65+,Minor Injury,1570
+1992,65+,Minor Injury,1598
+1993,65+,Minor Injury,1622
+1994,65+,Minor Injury,1602
+1995,65+,Minor Injury,1560
+1996,65+,Minor Injury,1648
+1997,65+,Minor Injury,1727
+1998,65+,Minor Injury,1684
+1999,65+,Minor Injury,1711
+2000,65+,Minor Injury,1496
+2001,65+,Minor Injury,1395
+2002,65+,Minor Injury,1469
+2003,65+,Minor Injury,1439
+2004,65+,Minor Injury,1508
+2005,65+,Minor Injury,1527
+2006,65+,Minor Injury,1657
+2007,65+,Minor Injury,1608
+2008,65+,Minor Injury,1604
+2009,65+,Minor Injury,1536
+2010,65+,Minor Injury,1562
+2011,65+,Minor Injury,1717
+2012,65+,Minor Injury,1493
+2013,65+,Minor Injury,1768
+1990,65+,Severe Injury,421
+1991,65+,Severe Injury,416
+1992,65+,Severe Injury,496
+1993,65+,Severe Injury,407
+1994,65+,Severe Injury,465
+1995,65+,Severe Injury,477
+1996,65+,Severe Injury,444
+1997,65+,Severe Injury,372
+1998,65+,Severe Injury,423
+1999,65+,Severe Injury,358
+2000,65+,Severe Injury,369
+2001,65+,Severe Injury,297
+2002,65+,Severe Injury,303
+2003,65+,Severe Injury,286
+2004,65+,Severe Injury,324
+2005,65+,Severe Injury,300
+2006,65+,Severe Injury,316
+2007,65+,Severe Injury,286
+2008,65+,Severe Injury,280
+2009,65+,Severe Injury,229
+2010,65+,Severe Injury,248
+2011,65+,Severe Injury,199
+2012,65+,Severe Injury,293
+2013,65+,Severe Injury,295
+1990,65+,Killed,99
+1991,65+,Killed,107
+1992,65+,Killed,99
+1993,65+,Killed,101
+1994,65+,Killed,122
+1995,65+,Killed,106
+1996,65+,Killed,127
+1997,65+,Killed,118
+1998,65+,Killed,122
+1999,65+,Killed,109
+2000,65+,Killed,91
+2001,65+,Killed,96
+2002,65+,Killed,102
+2003,65+,Killed,82
+2004,65+,Killed,78
+2005,65+,Killed,78
+2006,65+,Killed,82
+2007,65+,Killed,66
+2008,65+,Killed,76
+2009,65+,Killed,61
+2010,65+,Killed,73
+2011,65+,Killed,66
+2012,65+,Killed,55
+2013,65+,Killed,50
+1990,45-64,Minor Injury,3488
+1991,45-64,Minor Injury,4144
+1992,45-64,Minor Injury,4846
+1993,45-64,Minor Injury,4957
+1994,45-64,Minor Injury,4527
+1995,45-64,Minor Injury,4859
+1996,45-64,Minor Injury,6069
+1997,45-64,Minor Injury,6067
+1998,45-64,Minor Injury,6778
+1999,45-64,Minor Injury,6420
+2000,45-64,Minor Injury,5602
+2001,45-64,Minor Injury,5392
+2002,45-64,Minor Injury,5491
+2003,45-64,Minor Injury,5489
+2004,45-64,Minor Injury,5699
+2005,45-64,Minor Injury,5573
+2006,45-64,Minor Injury,5918
+2007,45-64,Minor Injury,5501
+2008,45-64,Minor Injury,5350
+2009,45-64,Minor Injury,5513
+2010,45-64,Minor Injury,5007
+2011,45-64,Minor Injury,5033
+2012,45-64,Minor Injury,4226
+2013,45-64,Minor Injury,4257
+1990,45-64,Severe Injury,554
+1991,45-64,Severe Injury,590
+1992,45-64,Severe Injury,713
+1993,45-64,Severe Injury,594
+1994,45-64,Severe Injury,563
+1995,45-64,Severe Injury,592
+1996,45-64,Severe Injury,582
+1997,45-64,Severe Injury,583
+1998,45-64,Severe Injury,546
+1999,45-64,Severe Injury,528
+2000,45-64,Severe Injury,484
+2001,45-64,Severe Injury,419
+2002,45-64,Severe Injury,420
+2003,45-64,Severe Injury,431
+2004,45-64,Severe Injury,411
+2005,45-64,Severe Injury,423
+2006,45-64,Severe Injury,423
+2007,45-64,Severe Injury,340
+2008,45-64,Severe Injury,382
+2009,45-64,Severe Injury,345
+2010,45-64,Severe Injury,288
+2011,45-64,Severe Injury,242
+2012,45-64,Severe Injury,304
+2013,45-64,Severe Injury,293
+1990,45-64,Killed,64
+1991,45-64,Killed,70
+1992,45-64,Killed,103
+1993,45-64,Killed,81
+1994,45-64,Killed,91
+1995,45-64,Killed,100
+1996,45-64,Killed,85
+1997,45-64,Killed,96
+1998,45-64,Killed,94
+1999,45-64,Killed,90
+2000,45-64,Killed,78
+2001,45-64,Killed,98
+2002,45-64,Killed,82
+2003,45-64,Killed,71
+2004,45-64,Killed,94
+2005,45-64,Killed,90
+2006,45-64,Killed,75
+2007,45-64,Killed,85
+2008,45-64,Killed,82
+2009,45-64,Killed,71
+2010,45-64,Killed,54
+2011,45-64,Killed,74
+2012,45-64,Killed,51
+2013,45-64,Killed,68
+1990,25-44,Minor Injury,8551
+1991,25-44,Minor Injury,9950
+1992,25-44,Minor Injury,12349
+1993,25-44,Minor Injury,12452
+1994,25-44,Minor Injury,11783
+1995,25-44,Minor Injury,12433
+1996,25-44,Minor Injury,15704
+1997,25-44,Minor Injury,16282
+1998,25-44,Minor Injury,17339
+1999,25-44,Minor Injury,15848
+2000,25-44,Minor Injury,14326
+2001,25-44,Minor Injury,12976
+2002,25-44,Minor Injury,13521
+2003,25-44,Minor Injury,13227
+2004,25-44,Minor Injury,12966
+2005,25-44,Minor Injury,12446
+2006,25-44,Minor Injury,12818
+2007,25-44,Minor Injury,11659
+2008,25-44,Minor Injury,11578
+2009,25-44,Minor Injury,11671
+2010,25-44,Minor Injury,10407
+2011,25-44,Minor Injury,9700
+2012,25-44,Minor Injury,8303
+2013,25-44,Minor Injury,8292
+1990,25-44,Severe Injury,1073
+1991,25-44,Severe Injury,1148
+1992,25-44,Severe Injury,1382
+1993,25-44,Severe Injury,1188
+1994,25-44,Severe Injury,1112
+1995,25-44,Severe Injury,1118
+1996,25-44,Severe Injury,930
+1997,25-44,Severe Injury,953
+1998,25-44,Severe Injury,940
+1999,25-44,Severe Injury,899
+2000,25-44,Severe Injury,862
+2001,25-44,Severe Injury,751
+2002,25-44,Severe Injury,685
+2003,25-44,Severe Injury,714
+2004,25-44,Severe Injury,717
+2005,25-44,Severe Injury,669
+2006,25-44,Severe Injury,639
+2007,25-44,Severe Injury,615
+2008,25-44,Severe Injury,594
+2009,25-44,Severe Injury,483
+2010,25-44,Severe Injury,503
+2011,25-44,Severe Injury,365
+2012,25-44,Severe Injury,438
+2013,25-44,Severe Injury,426
+1990,25-44,Killed,104
+1991,25-44,Killed,111
+1992,25-44,Killed,130
+1993,25-44,Killed,138
+1994,25-44,Killed,151
+1995,25-44,Killed,139
+1996,25-44,Killed,137
+1997,25-44,Killed,125
+1998,25-44,Killed,146
+1999,25-44,Killed,138
+2000,25-44,Killed,127
+2001,25-44,Killed,149
+2002,25-44,Killed,158
+2003,25-44,Killed,151
+2004,25-44,Killed,125
+2005,25-44,Killed,135
+2006,25-44,Killed,90
+2007,25-44,Killed,109
+2008,25-44,Killed,111
+2009,25-44,Killed,83
+2010,25-44,Killed,100
+2011,25-44,Killed,82
+2012,25-44,Killed,72
+2013,25-44,Killed,59
+1990,15-24,Minor Injury,6876
+1991,15-24,Minor Injury,8243
+1992,15-24,Minor Injury,10221
+1993,15-24,Minor Injury,10645
+1994,15-24,Minor Injury,10575
+1995,15-24,Minor Injury,11540
+1996,15-24,Minor Injury,14426
+1997,15-24,Minor Injury,14658
+1998,15-24,Minor Injury,14486
+1999,15-24,Minor Injury,13296
+2000,15-24,Minor Injury,11714
+2001,15-24,Minor Injury,11147
+2002,15-24,Minor Injury,11217
+2003,15-24,Minor Injury,10477
+2004,15-24,Minor Injury,10380
+2005,15-24,Minor Injury,9676
+2006,15-24,Minor Injury,9247
+2007,15-24,Minor Injury,8270
+2008,15-24,Minor Injury,7765
+2009,15-24,Minor Injury,7571
+2010,15-24,Minor Injury,6108
+2011,15-24,Minor Injury,6063
+2012,15-24,Minor Injury,5178
+2013,15-24,Minor Injury,5215
+1990,15-24,Severe Injury,1184
+1991,15-24,Severe Injury,1247
+1992,15-24,Severe Injury,1344
+1993,15-24,Severe Injury,1239
+1994,15-24,Severe Injury,1192
+1995,15-24,Severe Injury,1178
+1996,15-24,Severe Injury,1055
+1997,15-24,Severe Injury,1034
+1998,15-24,Severe Injury,954
+1999,15-24,Severe Injury,891
+2000,15-24,Severe Injury,785
+2001,15-24,Severe Injury,785
+2002,15-24,Severe Injury,671
+2003,15-24,Severe Injury,618
+2004,15-24,Severe Injury,634
+2005,15-24,Severe Injury,581
+2006,15-24,Severe Injury,587
+2007,15-24,Severe Injury,558
+2008,15-24,Severe Injury,521
+2009,15-24,Severe Injury,421
+2010,15-24,Severe Injury,410
+2011,15-24,Severe Injury,362
+2012,15-24,Severe Injury,349
+2013,15-24,Severe Injury,369
+1990,15-24,Killed,103
+1991,15-24,Killed,105
+1992,15-24,Killed,122
+1993,15-24,Killed,134
+1994,15-24,Killed,127
+1995,15-24,Killed,144
+1996,15-24,Killed,114
+1997,15-24,Killed,133
+1998,15-24,Killed,130
+1999,15-24,Killed,88
+2000,15-24,Killed,119
+2001,15-24,Killed,137
+2002,15-24,Killed,134
+2003,15-24,Killed,99
+2004,15-24,Killed,114
+2005,15-24,Killed,99
+2006,15-24,Killed,112
+2007,15-24,Killed,94
+2008,15-24,Killed,82
+2009,15-24,Killed,70
+2010,15-24,Killed,73
+2011,15-24,Killed,84
+2012,15-24,Killed,54
+2013,15-24,Killed,71
+1990,"0-14
+",Minor Injury,2550
+1991,"0-14
+",Minor Injury,2999
+1992,"0-14
+",Minor Injury,3574
+1993,"0-14
+",Minor Injury,3596
+1994,"0-14
+",Minor Injury,3391
+1995,"0-14
+",Minor Injury,3475
+1996,"0-14
+",Minor Injury,4365
+1997,"0-14
+",Minor Injury,4445
+1998,"0-14
+",Minor Injury,4798
+1999,"0-14
+",Minor Injury,4406
+2000,"0-14
+",Minor Injury,3648
+2001,"0-14
+",Minor Injury,3329
+2002,"0-14
+",Minor Injury,3446
+2003,"0-14
+",Minor Injury,3422
+2004,"0-14
+",Minor Injury,3372
+2005,"0-14
+",Minor Injury,3342
+2006,"0-14
+",Minor Injury,3404
+2007,"0-14
+",Minor Injury,3234
+2008,"0-14
+",Minor Injury,2871
+2009,"0-14
+",Minor Injury,3113
+2010,"0-14
+",Minor Injury,2799
+2011,"0-14
+",Minor Injury,2765
+2012,"0-14
+",Minor Injury,2456
+2013,"0-14
+",Minor Injury,2582
+1990,"0-14
+",Severe Injury,667
+1991,"0-14
+",Severe Injury,746
+1992,"0-14
+",Severe Injury,741
+1993,"0-14
+",Severe Injury,694
+1994,"0-14
+",Severe Injury,566
+1995,"0-14
+",Severe Injury,600
+1996,"0-14
+",Severe Injury,539
+1997,"0-14
+",Severe Injury,530
+1998,"0-14
+",Severe Injury,510
+1999,"0-14
+",Severe Injury,438
+2000,"0-14
+",Severe Injury,395
+2001,"0-14
+",Severe Injury,391
+2002,"0-14
+",Severe Injury,329
+2003,"0-14
+",Severe Injury,341
+2004,"0-14
+",Severe Injury,365
+2005,"0-14
+",Severe Injury,379
+2006,"0-14
+",Severe Injury,332
+2007,"0-14
+",Severe Injury,290
+2008,"0-14
+",Severe Injury,259
+2009,"0-14
+",Severe Injury,231
+2010,"0-14
+",Severe Injury,227
+2011,"0-14
+",Severe Injury,152
+2012,"0-14
+",Severe Injury,178
+2013,"0-14
+",Severe Injury,210
+1990,"0-14
+",Killed,52
+1991,"0-14
+",Killed,51
+1992,"0-14
+",Killed,53
+1993,"0-14
+",Killed,51
+1994,"0-14
+",Killed,48
+1995,"0-14
+",Killed,61
+1996,"0-14
+",Killed,54
+1997,"0-14
+",Killed,58
+1998,"0-14
+",Killed,56
+1999,"0-14
+",Killed,51
+2000,"0-14
+",Killed,46
+2001,"0-14
+",Killed,62
+2002,"0-14
+",Killed,47
+2003,"0-14
+",Killed,48
+2004,"0-14
+",Killed,56
+2005,"0-14
+",Killed,35
+2006,"0-14
+",Killed,46
+2007,"0-14
+",Killed,28
+2008,"0-14
+",Killed,34
+2009,"0-14
+",Killed,25
+2010,"0-14
+",Killed,40
+2011,"0-14
+",Killed,22
+2012,"0-14
+",Killed,23
+2013,"0-14
+",Killed,23
